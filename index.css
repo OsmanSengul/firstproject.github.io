@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    color: blueviolet;
+    background-color: burlywood;
+    text-align: center;
+  }
+   
+   
+h1 {
+    background-color: SeaGreen;
+
+  }
+   
+   
+p, 
+li {
+    font-size: 18px;
+    font-weight: 600;
+  }
+   
+a:hover {
+    background-color: rgb(123, 255, 0);
+  }
+   
+a {
+    color: rgb(139, 0, 35);
+  }
+
+h1 {
+    background-color: aqua;
+    padding: 30px 30px;
+  }
+
+.hover:hover {
+    color: rgb(255, 230, 0);
+  }
+
+#smaller {
+  height: 300px;
+  width: 500px
+}
